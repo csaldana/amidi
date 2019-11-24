@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fddf0ece6d8d025d49fbe668fd79496",
+    "revision": "3945787843eea6e188065775f88c20c2",
     "url": "/amidi/index.html"
   },
   {
