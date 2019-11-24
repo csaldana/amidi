@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3945787843eea6e188065775f88c20c2",
+    "revision": "6a017b54df5170e537e6700ef6d7b654",
     "url": "/amidi/index.html"
   },
   {
-    "revision": "b3f904fe02be8c076f62",
+    "revision": "08cafe675c3f57c13e9f",
     "url": "/amidi/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amidi/static/js/2.686f3d9e.chunk.js"
   },
   {
-    "revision": "b3f904fe02be8c076f62",
-    "url": "/amidi/static/js/main.1e921077.chunk.js"
+    "revision": "08cafe675c3f57c13e9f",
+    "url": "/amidi/static/js/main.6247dff5.chunk.js"
   },
   {
     "revision": "abe546ab6efc25c8520a",
