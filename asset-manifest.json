@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/amidi/static/css/main.b100e6da.chunk.css",
-    "main.js": "/amidi/static/js/main.6247dff5.chunk.js",
-    "main.js.map": "/amidi/static/js/main.6247dff5.chunk.js.map",
+    "main.js": "/amidi/static/js/main.1e921077.chunk.js",
+    "main.js.map": "/amidi/static/js/main.1e921077.chunk.js.map",
     "runtime-main.js": "/amidi/static/js/runtime-main.234a3b0e.js",
     "runtime-main.js.map": "/amidi/static/js/runtime-main.234a3b0e.js.map",
     "static/js/2.686f3d9e.chunk.js": "/amidi/static/js/2.686f3d9e.chunk.js",
     "static/js/2.686f3d9e.chunk.js.map": "/amidi/static/js/2.686f3d9e.chunk.js.map",
     "index.html": "/amidi/index.html",
-    "precache-manifest.3bf3221a57af331420e63f1e7abdbbfd.js": "/amidi/precache-manifest.3bf3221a57af331420e63f1e7abdbbfd.js",
+    "precache-manifest.8eae60862bb133d208f4e378430c13aa.js": "/amidi/precache-manifest.8eae60862bb133d208f4e378430c13aa.js",
     "service-worker.js": "/amidi/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/amidi/static/css/main.b100e6da.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.234a3b0e.js",
     "static/js/2.686f3d9e.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.6247dff5.chunk.js"
+    "static/js/main.1e921077.chunk.js"
   ]
 }
