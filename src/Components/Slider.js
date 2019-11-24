@@ -5,7 +5,7 @@ class Slider extends Component{
         return(
             <div className="slide-one-item home-slider owl-carousel">
 
-                <div className="site-blocks-cover overlay" style={{  backgroundImage: "url(./assets/images/hero_bg_1.jpg)"}}
+                <div className="site-blocks-cover overlay" style={{  backgroundImage: "url(assets/images/hero_bg_1.jpg)"}}
                      data-aos="fade" data-stellar-background-ratio="0.5">
                     {/*<div className="container">*/}
                     {/*    <div className="row align-items-center justify-content-center text-center">*/}
@@ -22,7 +22,7 @@ class Slider extends Component{
                     {/*</div>*/}
                 </div>
 
-                <div className="site-blocks-cover overlay" style={{backgroundImage:"url(./assets/images/hero_bg_2.jpg)"}}
+                <div className="site-blocks-cover overlay" style={{backgroundImage:"url(assets/images/hero_bg_2.jpg)"}}
                      data-aos="fade" data-stellar-background-ratio="0.5">
                     {/*<div className="container">*/}
                     {/*    <div className="row align-items-center justify-content-center text-center">*/}

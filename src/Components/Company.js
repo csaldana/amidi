@@ -19,7 +19,7 @@ class Company extends Component{
                         <div className="col-md-6 col-lg-4 mb-5 mb-lg-5">
                             <div className="team-member">
 
-                                <img src="./assets/images/mision1.png" alt="Image" className="img-fluid rounded mb-4" />
+                                <img src="assets/images/mision1.png" alt="Image" className="img-fluid rounded mb-4" />
 
                                     <div className="text">
 
@@ -36,7 +36,7 @@ class Company extends Component{
                         <div className="col-md-6 col-lg-4 mb-5 mb-lg-5">
                             <div className="team-member">
 
-                                <img src="./assets/images/vision1.png" alt="Image" className="img-fluid rounded mb-4" />
+                                <img src="assets/images/vision1.png" alt="Image" className="img-fluid rounded mb-4" />
 
                                     <div className="text">
 
@@ -52,7 +52,7 @@ class Company extends Component{
                         <div className="col-md-6 col-lg-4 mb-5 mb-lg-5">
                             <div className="team-member">
 
-                                <img src="./assets/images/lo1.png" alt="Image" className="img-fluid rounded mb-4" />
+                                <img src="assets/images/lo1.png" alt="Image" className="img-fluid rounded mb-4" />
 
                                     <div className="text">
 
